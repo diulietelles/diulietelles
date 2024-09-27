@@ -7,8 +7,11 @@
 
 - 🌱 I am currently studying JavaScript, CSS, HTML, NODEJS,PostgreSQL,PYTHON
  <h3 align="left">Connect with me!</h3>
+ 
 - 📫 How to reach me: tellesdiulie@gmail.com
 - 😄 Pronouns: SHE/HER
+
+
 
 <div style="display: flex;">
   <a href="https://github.com/diulietelles">
