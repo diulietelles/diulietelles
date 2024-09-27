@@ -1,22 +1,19 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    Hello! I'm Diulie Telles
-
-    - 🌱 I am currently studying JavaScript, CSS, HTML, NODEJS, PostgreSQL, PYTHON
-    <div style="display: inline-block;">
-      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </div>
-  </div>
-
-  <!-- Alinhando o GIF à direita -->
-  <div style="margin-left: 20px;">
-    <img alt="Study GIF" height="190px" src="./src/study.gif">
-  </div>
+ 🌱 I am currently studying JavaScript, CSS, HTML, NODEJS, PostgreSQL, PYTHON
+<div style="display: inline-block;">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+<!-- Alinhando o GIF à direita -->
+<p align="right">
+  <img alt="" height="190px" src="./src/study.gif">
+</p>
+
+  
+<h3 align="left">Connect with me!</h3>
+ 
 - 📫 How to reach me: tellesdiulie@gmail.com
 - 😄 Pronouns: SHE/HER
 
