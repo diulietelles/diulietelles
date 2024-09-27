@@ -8,8 +8,9 @@ Hello! I'm Diulie Telles
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+  
 <h3 align="left">Connect with me!</h3>
-
+ 
 - 📫 How to reach me: tellesdiulie@gmail.com
 - 😄 Pronouns: SHE/HER
 
@@ -23,21 +24,8 @@ Hello! I'm Diulie Telles
   </a>
 </div>
 
-<!-- Aqui é onde você encaixa a parte nova -->
-<div style="display: flex; align-items: center;">
-  <div>
-    <a href="https://instagram.com/diulietelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/diulietelles" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:tellesdiulie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/diulietelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
-  <div>
-    <img alt="Study GIF" height="190px" src="study.gif">
-  </div>
-</div>
-
-<p align="right">
+<!-- Centralizando o GIF -->
+<p align="center">
   <img alt="Study GIF" height="190px" src="study.gif">
 </p>
 
@@ -46,9 +34,17 @@ Hello! I'm Diulie Telles
   <img alt="" src="./src/header-gif.gif" style="max-width: 100%; height: auto;">
 </p>
 
-<p align="right">
+<!-- Centralizando outro GIF -->
+<p align="center">
   <img alt="" height="190px" src="./src/study.gif">
 </p>
+
+<a href="https://instagram.com/diulietelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/diulietelles" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href = "mailto:tellesdiulie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diulietelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
