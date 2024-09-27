@@ -20,9 +20,12 @@
   </a>
 </div>
 
+
 <p align="right">
   <img alt="Study GIF" height="190px" src="study.gif">
 </p>
+
+
 
 #
 <p align="center">
