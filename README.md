@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     Hello! I'm Diulie Telles
 
@@ -12,12 +12,10 @@
   </div>
 
   <!-- Alinhando o GIF à direita -->
-  <p style="margin-left: 20px;">
-    <img alt="" height="190px" src="./src/study.gif">
-  </p>
+  <div style="margin-left: 20px;">
+    <img alt="Study GIF" height="190px" src="./src/study.gif">
+  </div>
 </div>
-
-<h3 align="left">Connect with me!</h3>
 
 - 📫 How to reach me: tellesdiulie@gmail.com
 - 😄 Pronouns: SHE/HER
