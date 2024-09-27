@@ -30,13 +30,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
 
-
-#
-
-<p align="center">Estudante de Engenharia da Computação Unisinos, curso técnico de Desenvolvemento de Sistemas no Senac 
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 <p align="center">
