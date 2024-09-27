@@ -3,9 +3,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-I'm Diulie Telles
+  I'm Diulie Telles
 
 - 🌱 I am currently studying JavaScript, CSS, HTML, NODEJS,PostgreSQL,PYTHON
+ <h3 align="left">Connect with me!</h3>
 - 📫 How to reach me: tellesdiulie@gmail.com
 - 😄 Pronouns: SHE/HER
 
@@ -43,7 +44,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img alt="" height="190px" src="./src/study.gif">
 </p>
 
-<h3 align="left">Connect with me!</h3>
+
 
 <div align="center">
   <h3>* GitHub Stats *</h3>
