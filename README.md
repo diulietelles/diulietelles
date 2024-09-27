@@ -1,4 +1,4 @@
-##
+
  Hello! I'm Diulie Telles
 
 - 🌱 I am currently studying JavaScript, CSS, HTML, NODEJS, PostgreSQL, PYTHON
