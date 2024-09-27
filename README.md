@@ -24,7 +24,16 @@
 ##
 
 
+#
 
+<p align="center">Estudante de Engenharia da Computação Unisinos, curso técnico de Desenvolvemento de Sistemas no Senac 
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
 
 
   <a href="https://instagram.com/diulietelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
