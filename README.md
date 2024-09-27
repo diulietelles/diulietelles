@@ -35,21 +35,28 @@ I'm Diulie Telles
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
+<p align="center">
+  <img alt="" src="./src/header-gif.gif" style="max-width: 100%; height: auto;">
+</p>
 
-
-<img align="center" alt="" src="./src/header-gif.gif">
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<p align="right">
+  <img alt="" height="190px" src="./src/study.gif">
+</p>
 
 <h3 align="left">Connect with me!</h3>
-<div style="text-align: center;" align="center">
+
+<div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <br><br>
 
   <a href="https://github.com/mari4souza/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
 
 
   <a href="https://instagram.com/diulietelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
