@@ -32,7 +32,7 @@ Hello, I'm Diulie Telles
 
 
 
-<!-- Centralizando o GIF -->
+
 <p align="center">
   <img alt="Study GIF" height="190px" src="study.gif">
 </p>
