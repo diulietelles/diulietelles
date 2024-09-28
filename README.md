@@ -17,7 +17,7 @@ Hello, I'm Diulie Telles
 <h3 align="left">Connect with me!</h3>
  
 - 📫 How to reach me: tellesdiulie@gmail.com
-- 😄 Pronouns: SHE/HER
+- Pronouns: SHE/HER
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
