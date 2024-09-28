@@ -13,7 +13,6 @@ Hello, I'm Diulie Telles
 <p align="right">
   <img alt="" height="190px" src="./src/study.gif">
 </p>
-
   
 <h3 align="left">Connect with me!</h3>
  
