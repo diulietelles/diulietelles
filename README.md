@@ -31,8 +31,6 @@ Hello, I'm Diulie Telles
 </div>
 
 
-
-
 <p align="center">
   <img alt="Study GIF" height="190px" src="study.gif">
 </p>
