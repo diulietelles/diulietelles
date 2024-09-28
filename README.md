@@ -9,7 +9,7 @@ Hello, I'm Diulie Telles
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<!-- Alinhando o GIF à direita -->
+
 <p align="right">
   <img alt="" height="190px" src="./src/study.gif">
 </p>
